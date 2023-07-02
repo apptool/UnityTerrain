@@ -1,2 +1,2 @@
-# UnityTrrain
+# UnityTerrain
 Creating a Unity Terrain.
